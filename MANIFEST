@@ -1,0 +1,6 @@
+Makefile.PL
+MANIFEST
+README
+t/Acme-Fatal.t
+lib/Acme/Fatal.pm
+META.yml                                 Module meta-data (added by MakeMaker)
